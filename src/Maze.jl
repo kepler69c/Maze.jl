@@ -1,6 +1,6 @@
 module Maze
 
-struct Maze
+struct MazeGrid
   maze::Vector{Vector{Bool}}
 end
 

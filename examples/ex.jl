@@ -1,3 +1,4 @@
 using Maze
 
-maze = Maze([true])
+maze = MazeGrid([true])
+println("maze = ", maze)
