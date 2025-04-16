@@ -1,0 +1,13 @@
+name = "Maze"
+uuid = "8d8a08ba-4b7a-4774-941f-4224b10566ca"
+authors = ["Alexandre Berard <alexandre.berard2@univ-grenoble-alpes.fr> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.11"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
