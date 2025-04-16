@@ -1,5 +1,7 @@
 module Maze
 
-# Write your package code here.
+struct Maze
+  maze::Vector{Vector{Bool}}
+end
 
 end
